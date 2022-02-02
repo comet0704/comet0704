@@ -1,4 +1,4 @@
-- 👋 Hi, I’m David Livingstone
+- 👋 Hi, I’m David Livestrong
 - 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning NFT techknowlogy
 
