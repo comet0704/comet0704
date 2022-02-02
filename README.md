@@ -1,4 +1,4 @@
-- 👋 Hi, I’m JaeYoung.
+- 👋 Hi, I’m David Livingstone
 - 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning NFT techknowlogy
 
